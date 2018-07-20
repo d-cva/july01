@@ -4,3 +4,5 @@ All the list of thing that needs to be done.
 learn Java
 learn JSP
 learn JDBC
+python
+javascript
